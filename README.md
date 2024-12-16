@@ -145,6 +145,7 @@ transition: ease 0.5s;
 ![Screenshot 2024-12-16 105132](https://github.com/user-attachments/assets/58000f91-3b87-4724-bb39-3e2276f8414f)
 ![Screenshot 2024-12-16 105215](https://github.com/user-attachments/assets/362098c8-de97-4147-a97a-b99981577849)
 ![Screenshot 2024-12-16 105234](https://github.com/user-attachments/assets/d6245c5e-6aa1-485a-96b8-c57e3930d4cf)
+![Screenshot 2024-12-16 105132](https://github.com/user-attachments/assets/602d96dc-65b6-4c00-8636-7da85e3ff76d)
 
 
 
